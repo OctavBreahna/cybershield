@@ -1,0 +1,22 @@
+# Secrete / configurare locala
+.env
+*.env
+
+# Backup-uri si fisiere temporare
+*.bak
+*.bak-*
+
+# Python
+__pycache__/
+*.pyc
+
+# Date reale de clienti / stare runtime
+reports/
+logs.txt
+daily_summary_state.json
+watch_heartbeat.txt
+telefon-octav.png
+
+# IDE / OS
+.DS_Store
+.vscode/
